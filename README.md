@@ -1,15 +1,18 @@
 ## Hi there, I’m so glad you’re here!👋
 
 Welcome to my little corner of GitHub!
+
 I’m passionate about growing in my career, picking up new tech skills.
 
 📊 Data Analyst | Python • SQL • Power BI • AWS
 
 🚀 Transforming data into insights | Aspiring Data Scientist
 
-🔍 Analytics • Dashboards • Cloud | Data Enthusiast
+Here, you’ll find:  
 
-⚡ From IT & Finance → Data & Cloud | Always Learning
+- 📊 Data projects I’m building or contributing to  
+- 🛠️ Things I’ve learned while solving problems with SQL & Python  
+- 🚀 Experiments with Power BI dashboards, AWS services
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/Vamsi-krishna-t0312)  
