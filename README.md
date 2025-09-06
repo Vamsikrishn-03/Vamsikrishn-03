@@ -1,7 +1,7 @@
 ## Hi there, I’m so glad you’re here!👋
 
-<!--
-**Vamsikrishn-03/Vamsikrishn-03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my little corner of GitHub!
+I’m passionate about growing in my career, picking up new tech skills.
 
 📊 Data Analyst | Python • SQL • Power BI • AWS
 
@@ -20,3 +20,7 @@
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
+
+<!--
+**Vamsikrishn-03/Vamsikrishn-03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
