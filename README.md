@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi there, I’m so glad you’re here!👋
 
 <!--
 **Vamsikrishn-03/Vamsikrishn-03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+📊 Data Analyst | Python • SQL • Power BI • AWS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Transforming data into insights | Aspiring Data Scientist
+
+🔍 Analytics • Dashboards • Cloud | Data Enthusiast
+
+⚡ From IT & Finance → Data & Cloud | Always Learning
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/Vamsi-krishna-t0312)  
+
+## 💻 Tech Stack:
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?logo=databricks&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
