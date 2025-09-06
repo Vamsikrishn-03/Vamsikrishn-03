@@ -23,6 +23,11 @@ Here, you’ll find:
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?logo=matplotlib&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?logo=apachespark&logoColor=orange)
 
 <!--
 **Vamsikrishn-03/Vamsikrishn-03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
